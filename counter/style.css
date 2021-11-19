@@ -1,0 +1,14 @@
+body {
+  background-image: url(./img/ss_541be89c68398ef53cda8757e6f61c346fbdcbb1.1920x1080.jpg);
+  text-align: center;
+  margin: 10em;
+}
+div {
+  border: 1px solid grey;
+  padding: 2em;
+  box-shadow: khaki, 2;
+  background-color: khaki;
+}
+p {
+  font-size: 5rem;
+}
